@@ -10,7 +10,7 @@ Mobile-friendly design for use on smartphones and tablets
 Installation
 This is a web application and does not require any installation. You can simply visit the GitHub Pages link to access the calculator:
 
-https://your-username.github.io/easy-mortgage-calculator/
+https://github.com/TahirowBurnz/easy-mortgage-calculator
 
 Usage
 To use the calculator, simply enter the principal amount of the loan, the interest rate, and the loan term in years. The calculator will then calculate the monthly payment and display a detailed breakdown of the payment.

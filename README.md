@@ -1,4 +1,4 @@
-# tools
+# Easy Mortgage Calculator
  This GitHub repository provides a collection of simple yet useful tools to make your daily life easier.
 Easy Mortgage Calculator
 This is a simple mortgage calculator web application that calculates monthly mortgage payments based on the principal, interest rate, and loan term entered by the user. It is designed to be user-friendly and easy to use for anyone who wants to quickly calculate their monthly mortgage payment.
